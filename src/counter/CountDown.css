@@ -1,0 +1,38 @@
+#root{
+	margin: 0px auto;
+	max-width: 1100px;
+	width: 980px;
+	border: 2px solid #808080;
+	background: #003366;
+}
+
+.valueDisplay {
+	font-size: 20px;
+	margin: 10px auto;
+	font-weight: 700;
+	text-align: center;
+	color: #ffffff
+}
+
+.clickMe {
+	border: none;
+	padding: 20px;
+	text-align: center;
+	font-size: 14px;
+	background: red;
+	margin: 20px auto;
+	font-weight: 600;
+	font-family: "Times New Roman", Times, serif;
+	text-transform: uppercase;
+	display: block;
+	border: 2px solid #fff;
+	color: #fff;
+}
+
+.clickMe:hover {
+  background-color: #555;
+}
+
+.clickMe:active {
+  background-color: black;
+}
