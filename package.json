@@ -2,7 +2,8 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mywebsite.com/relativepath",
+  // "homepage": "http://mywebsite.com/relativepath",
+  "homepage": "https://rutz32.github.io/wether/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
